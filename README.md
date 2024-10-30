@@ -39,7 +39,7 @@ WebTest
 
   <body onLoad="start();">
 
-    <h1 id="myHeading">Welcome To my github&trade;</h1>
+    <h1 id="myHeading">Welcome To my GitHub </h1>
     <hr />
     <div class="description"> * Nattapol Jompapin</div>
     * UP66 </div>
